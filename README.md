@@ -2,15 +2,15 @@
 
 В этом репозитории копятся разобранные мной ML-статьи.
 
-Про некоторые я делал выступления, про некоторые — просто текстовые обзоры. Среди оставшихся часть вычитал, часть вскользь осмотрел ради основного концепта. Репозиторий представляет из себя личный архив — не больше.
+Про некоторые я делал выступления, про некоторые - просто текстовые обзоры. Среди оставшихся часть вычитал, часть вскользь осмотрел ради основного концепта. Репозиторий представляет из себя личный архив - не больше.
 
 ---
 
 ## 📝 Обзоры (текст)
 
-- [Softsign: Smooth Sign in Your Optimizer For Better Parameter Heterogeneity Handling](https://openreview.net/forum?id=n47bK7WM3U) — [note](Softsign_Smooth_Sign_in_Your_Optimizer_For_Better_Parameter_Heterogeneity_Handling.md)
-- [Scale-wise Distillation of Diffusion Models](https://openreview.net/forum?id=Z06LNjqU1g) — [note](scale_wise_distillation_of_diffusion_models.md)
-- [Rethinking Global Text Conditioning in Diffusion Transformers](https://openreview.net/forum?id=65Ai8mLfjI) — [note](rethinking_global_text_conditioning_in_diffusion_transformers.md)
+- [Softsign: Smooth Sign in Your Optimizer For Better Parameter Heterogeneity Handling](https://openreview.net/forum?id=n47bK7WM3U) - [note](Softsign_Smooth_Sign_in_Your_Optimizer_For_Better_Parameter_Heterogeneity_Handling.md)
+- [Scale-wise Distillation of Diffusion Models](https://openreview.net/forum?id=Z06LNjqU1g) - [note](scale_wise_distillation_of_diffusion_models.md)
+- [Rethinking Global Text Conditioning in Diffusion Transformers](https://openreview.net/forum?id=65Ai8mLfjI) - [note](rethinking_global_text_conditioning_in_diffusion_transformers.md)
 
 ## 🎤 Доклады (презентация)
 
@@ -34,9 +34,9 @@
 - [SmolVLA: A vision-language-action model for affordable and efficient robotics](https://arxiv.org/pdf/2506.01844)
 - [Green-VLA: StagedVision–Language–ActionModel forGeneralistRobots](https://arxiv.org/pdf/2602.00919)
 - [Unmasking the Illusion of Embodied Reasoning in Vision-Language-Action Models](https://arxiv.org/pdf/2604.18000v1)
-- [Does VLA Even Know the Basics? Measuring Commonsense and World Knowledge Retention in Vision–Language–Action Models](https://arxiv.org/pdf/2606.19297) — [note](does_vla_even_know_the_basics.md)
-- [Beyond English: Uncovering the Multilingual Gap in Vision-Language-Action Models](https://arxiv.org/pdf/2606.15714) — [note](beyond_english.md)
-- [When Does Language Matter? Multilingual Instructions Reveal Step-wise Language Sensitivity in Vision-Language-Action Models](https://aclanthology.org/2026.acl-long.2066.pdf) — [note](when_does_language_matter.md)
+- [Does VLA Even Know the Basics? Measuring Commonsense and World Knowledge Retention in Vision–Language–Action Models](https://arxiv.org/pdf/2606.19297) - [note](does_vla_even_know_the_basics.md)
+- [Beyond English: Uncovering the Multilingual Gap in Vision-Language-Action Models](https://arxiv.org/pdf/2606.15714) - [note](beyond_english.md)
+- [When Does Language Matter? Multilingual Instructions Reveal Step-wise Language Sensitivity in Vision-Language-Action Models](https://aclanthology.org/2026.acl-long.2066.pdf) - [note](when_does_language_matter.md)
 - [π0: A Vision-Language-Action Flow Model for General Robot Control](https://arxiv.org/pdf/2410.24164)
 - [RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control](https://arxiv.org/pdf/2307.15818)
 - [OpenVLA: An Open-Source Vision-Language-Action Model](https://arxiv.org/pdf/2406.09246)
@@ -58,4 +58,4 @@
 - [FLUX.1 Kontext: Flow Matching for In-Context Image Generation and Editing in Latent Space](https://arxiv.org/pdf/2506.15742)
 - [Flow Matching for Generative Modeling](https://arxiv.org/pdf/2210.02747)
 - [Classifier-Free Guidance](https://arxiv.org/pdf/2207.12598)
-- [Diffusion Models Beat GANs on Image Synthesis](https://proceedings.neurips.cc/paper_files/paper/2021/file/49ad23d1ec9fa4bd8d77d02681df5cfa-Paper.pdf) — classifier guidance
+- [Diffusion Models Beat GANs on Image Synthesis](https://proceedings.neurips.cc/paper_files/paper/2021/file/49ad23d1ec9fa4bd8d77d02681df5cfa-Paper.pdf) - classifier guidance
