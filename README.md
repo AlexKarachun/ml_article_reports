@@ -29,7 +29,7 @@
 - [Optuna A Next-generation Hyperparameter Optimization Framework](optuna.md)
 
 ## 📖 Вычитал
-
+- [Listen, Attend and Spell](https://arxiv.org/pdf/1508.01211)
 - [SmolVLM: Redefining small and efficient multimodal models](https://arxiv.org/pdf/2504.05299)
 - [SmolVLA: A vision-language-action model for affordable and efficient robotics](https://arxiv.org/pdf/2506.01844)
 - [Green-VLA: StagedVision–Language–ActionModel forGeneralistRobots](https://arxiv.org/pdf/2602.00919)
