@@ -29,6 +29,7 @@
 - [Optuna A Next-generation Hyperparameter Optimization Framework](optuna.md)
 
 ## 📖 Вычитал
+- [Conformer: Convolution-augmented Transformer for Speech Recognition](https://arxiv.org/pdf/2005.08100)
 - [Listen, Attend and Spell](https://arxiv.org/pdf/1508.01211)
 - [SmolVLM: Redefining small and efficient multimodal models](https://arxiv.org/pdf/2504.05299)
 - [SmolVLA: A vision-language-action model for affordable and efficient robotics](https://arxiv.org/pdf/2506.01844)
